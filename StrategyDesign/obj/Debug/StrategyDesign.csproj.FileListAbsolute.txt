@@ -1,0 +1,7 @@
+D:\Workspace.VisualStudio\DesignPatterns\StrategyDesign\bin\Debug\StrategyDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\StrategyDesign\bin\Debug\StrategyDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\StrategyDesign\bin\Debug\StrategyDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\StrategyDesign\obj\Debug\StrategyDesign.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\StrategyDesign\obj\Debug\StrategyDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\StrategyDesign\obj\Debug\StrategyDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\StrategyDesign\obj\Debug\StrategyDesign.pdb

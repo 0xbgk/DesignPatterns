@@ -1,0 +1,7 @@
+D:\Workspace.VisualStudio\DesignPatterns\ProxyDesign\bin\Debug\ProxyDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\ProxyDesign\bin\Debug\ProxyDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\ProxyDesign\bin\Debug\ProxyDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\ProxyDesign\obj\Debug\ProxyDesign.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\ProxyDesign\obj\Debug\ProxyDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\ProxyDesign\obj\Debug\ProxyDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\ProxyDesign\obj\Debug\ProxyDesign.pdb

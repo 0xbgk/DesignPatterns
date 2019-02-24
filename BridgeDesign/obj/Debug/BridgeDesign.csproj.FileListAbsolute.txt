@@ -1,0 +1,7 @@
+D:\Workspace.VisualStudio\DesignPatterns\BridgeDesign\bin\Debug\BridgeDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\BridgeDesign\bin\Debug\BridgeDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\BridgeDesign\bin\Debug\BridgeDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\BridgeDesign\obj\Debug\BridgeDesign.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\BridgeDesign\obj\Debug\BridgeDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\BridgeDesign\obj\Debug\BridgeDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\BridgeDesign\obj\Debug\BridgeDesign.pdb

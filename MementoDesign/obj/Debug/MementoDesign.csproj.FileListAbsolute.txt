@@ -1,0 +1,6 @@
+D:\Workspace.VisualStudio\DesignPatterns\MementoDesign\bin\Debug\MementoDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\MementoDesign\bin\Debug\MementoDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\MementoDesign\bin\Debug\MementoDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\MementoDesign\obj\Debug\MementoDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\MementoDesign\obj\Debug\MementoDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\MementoDesign\obj\Debug\MementoDesign.pdb

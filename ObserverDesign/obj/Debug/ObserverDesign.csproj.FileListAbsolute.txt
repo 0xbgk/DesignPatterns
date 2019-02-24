@@ -1,0 +1,6 @@
+D:\Workspace.VisualStudio\DesignPatterns\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\ObserverDesign\bin\Debug\ObserverDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\ObserverDesign\bin\Debug\ObserverDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\ObserverDesign\obj\Debug\ObserverDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\ObserverDesign\obj\Debug\ObserverDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\ObserverDesign\obj\Debug\ObserverDesign.pdb

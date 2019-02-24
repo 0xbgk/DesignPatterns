@@ -1,0 +1,6 @@
+D:\Workspace.VisualStudio\DesignPatterns\DecaratorDesign\bin\Debug\DecaratorDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\DecaratorDesign\bin\Debug\DecaratorDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\DecaratorDesign\bin\Debug\DecaratorDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\DecaratorDesign\obj\Debug\DecaratorDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\DecaratorDesign\obj\Debug\DecaratorDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\DecaratorDesign\obj\Debug\DecaratorDesign.pdb
