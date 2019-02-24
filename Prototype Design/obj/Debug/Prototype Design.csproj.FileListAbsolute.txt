@@ -1,0 +1,6 @@
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\Prototype Design\bin\Debug\Prototype Design.exe.config
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\Prototype Design\bin\Debug\Prototype Design.exe
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\Prototype Design\bin\Debug\Prototype Design.pdb
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\Prototype Design\obj\Debug\Prototype Design.csproj.CoreCompileInputs.cache
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\Prototype Design\obj\Debug\Prototype Design.exe
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\Prototype Design\obj\Debug\Prototype Design.pdb

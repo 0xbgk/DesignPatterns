@@ -1,0 +1,7 @@
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderDesign\bin\Debug\BuilderDesign.exe.config
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderDesign\bin\Debug\BuilderDesign.exe
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderDesign\bin\Debug\BuilderDesign.pdb
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderDesign\obj\Debug\BuilderDesign.csprojAssemblyReference.cache
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderDesign\obj\Debug\BuilderDesign.csproj.CoreCompileInputs.cache
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderDesign\obj\Debug\BuilderDesign.exe
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\BuilderDesign\obj\Debug\BuilderDesign.pdb

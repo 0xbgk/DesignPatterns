@@ -1,0 +1,7 @@
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\BGK\Documents\Visual Studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
