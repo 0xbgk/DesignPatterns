@@ -1,0 +1,7 @@
+D:\Workspace.VisualStudio\DesignPatterns\CompositeDesign\bin\Debug\CompositeDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\CompositeDesign\bin\Debug\CompositeDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\CompositeDesign\bin\Debug\CompositeDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\CompositeDesign\obj\Debug\CompositeDesign.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\CompositeDesign\obj\Debug\CompositeDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\CompositeDesign\obj\Debug\CompositeDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\CompositeDesign\obj\Debug\CompositeDesign.pdb

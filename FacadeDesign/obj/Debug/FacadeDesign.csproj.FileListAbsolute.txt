@@ -1,0 +1,7 @@
+D:\Workspace.VisualStudio\DesignPatterns\FacadeDesign\bin\Debug\FacadeDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\FacadeDesign\bin\Debug\FacadeDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\FacadeDesign\bin\Debug\FacadeDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\FacadeDesign\obj\Debug\FacadeDesign.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\FacadeDesign\obj\Debug\FacadeDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\FacadeDesign\obj\Debug\FacadeDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\FacadeDesign\obj\Debug\FacadeDesign.pdb
