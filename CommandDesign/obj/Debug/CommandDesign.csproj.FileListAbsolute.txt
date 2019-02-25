@@ -1,0 +1,7 @@
+D:\Workspace.VisualStudio\DesignPatterns\CommandDesign\bin\Debug\CommandDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\CommandDesign\bin\Debug\CommandDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\CommandDesign\bin\Debug\CommandDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\CommandDesign\obj\Debug\CommandDesign.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\CommandDesign\obj\Debug\CommandDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\CommandDesign\obj\Debug\CommandDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\CommandDesign\obj\Debug\CommandDesign.pdb

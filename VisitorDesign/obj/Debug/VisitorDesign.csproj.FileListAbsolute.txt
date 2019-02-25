@@ -1,0 +1,7 @@
+D:\Workspace.VisualStudio\DesignPatterns\VisitorDesign\bin\Debug\VisitorDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\VisitorDesign\bin\Debug\VisitorDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\VisitorDesign\bin\Debug\VisitorDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\VisitorDesign\obj\Debug\VisitorDesign.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\VisitorDesign\obj\Debug\VisitorDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\VisitorDesign\obj\Debug\VisitorDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\VisitorDesign\obj\Debug\VisitorDesign.pdb

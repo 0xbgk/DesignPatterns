@@ -1,0 +1,7 @@
+D:\Workspace.VisualStudio\DesignPatterns\StateDesign\bin\Debug\StateDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\StateDesign\bin\Debug\StateDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\StateDesign\bin\Debug\StateDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\StateDesign\obj\Debug\StateDesign.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\StateDesign\obj\Debug\StateDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\StateDesign\obj\Debug\StateDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\StateDesign\obj\Debug\StateDesign.pdb

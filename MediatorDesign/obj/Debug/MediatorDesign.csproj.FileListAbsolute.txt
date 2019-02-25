@@ -1,0 +1,7 @@
+D:\Workspace.VisualStudio\DesignPatterns\MediatorDesign\bin\Debug\MediatorDesign.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\MediatorDesign\bin\Debug\MediatorDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\MediatorDesign\bin\Debug\MediatorDesign.pdb
+D:\Workspace.VisualStudio\DesignPatterns\MediatorDesign\obj\Debug\MediatorDesign.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\MediatorDesign\obj\Debug\MediatorDesign.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\MediatorDesign\obj\Debug\MediatorDesign.exe
+D:\Workspace.VisualStudio\DesignPatterns\MediatorDesign\obj\Debug\MediatorDesign.pdb

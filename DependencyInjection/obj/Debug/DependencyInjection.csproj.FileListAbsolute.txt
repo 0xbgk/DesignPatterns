@@ -1,0 +1,10 @@
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.pdb
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\bin\Debug\Ninject.dll
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\bin\Debug\Ninject.xml
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csprojAssemblyReference.cache
+D:\Workspace.VisualStudio\DesignPatterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete
